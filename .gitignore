@@ -6,6 +6,6 @@ node_modules/
 *.tar.gz
 ._vandergraaf.php
 ._vandergraaf-logo.png
-._DS_Store
+._.DS_Store
 .bitbucket
 deprecated/
